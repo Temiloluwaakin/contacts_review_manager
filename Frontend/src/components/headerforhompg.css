@@ -1,0 +1,9 @@
+.homeheader{
+    position: relative;
+}
+
+.modal{
+    background: red;
+    position: absolute;
+    z-index: 999;
+}
